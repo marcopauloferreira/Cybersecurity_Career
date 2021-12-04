@@ -1,4 +1,4 @@
-# Cybersecurity Career
+# Starting a Career in Cybersecurity
 A repo with those seeking to get started in a Cybersecurity career
 
 
