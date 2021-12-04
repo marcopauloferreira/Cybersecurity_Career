@@ -3,6 +3,8 @@ A repo with those seeking to get started in a Cybersecurity career
 
 
 ## Professional Certificates
+IT certifications are not everything and do not replace real world experience. However, there are an excellent way to learn and improve technical skills.
+
 ### Entry Level
 1. CompTIA Security+
 
